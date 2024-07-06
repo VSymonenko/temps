@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Templates",
+  title: "Temps",
   description: "Create template",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
