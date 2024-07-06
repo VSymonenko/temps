@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Cases
-      link: /user-cases
+      link: /use-cases
 
 features:
   - title: Create single measure template
