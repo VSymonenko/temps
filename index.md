@@ -3,23 +3,17 @@
 layout: home
 
 hero:
-  name: "Templates"
-  text: "Create template"
-  tagline: My great project tagline
+  name: Templates
+  text: Create todo templates
+  tagline: Easy create and use todo templates
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Cases
+      link: /user-cases
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Create single measure template
+    details: Fast create measure template and use it immediate
+  - title: Create multiple measure template
+    details: Fast create measure template and use it immediate
 ---
-
