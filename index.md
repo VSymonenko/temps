@@ -8,12 +8,11 @@ hero:
   tagline: Easy create and use todo templates
   actions:
     - theme: brand
-      text: Cases
+      text: Use cases
       link: /use-cases
 
 features:
-  - title: Create single measure template
-    details: Fast create measure template and use it immediate
-  - title: Create multiple measure template
-    details: Fast create measure template and use it immediate
+  - title: Go to web app
+    details: Fast create and use measure template
+    link: https://app.temps.pro
 ---

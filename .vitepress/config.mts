@@ -8,14 +8,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Cases', link: '/use-cases' }
+      { text: 'Use cases', link: '/use-cases' }
     ],
 
     sidebar: [
       {
-        text: 'Cases',
+        text: 'Use cases',
         items: [
-          { text: 'Use cases', link: '/use-cases' },
+          { text: 'Single measure', link: '/use-cases' },
         ]
       }
     ],
