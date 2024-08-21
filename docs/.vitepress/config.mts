@@ -34,16 +34,16 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Головна', link: '/' },
-          { text: 'Приклади використання', link: '/use-cases' },
+          { text: 'Приклади використання', link: '/uk/use-cases' },
         ],
         sidebar: [
           {
             text: 'Приклади використання',
             items: [
-              { text: 'Вимірювання', link: '/use-cases' },
+              { text: 'Вимірювання', link: '/uk/use-cases' },
             ],
           },
-          { text: 'Політика конфіденційності', link: '/privacy-policy' },
+          { text: 'Політика конфіденційності', link: '/uk/privacy-policy' },
         ],
       },
     },
