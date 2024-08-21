@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: Templates
-  text: Create todo templates
-  tagline: Easy create and use todo templates
+  text: Create templates
+  tagline: Easy create and use templates
   actions:
     - theme: brand
       text: Use cases

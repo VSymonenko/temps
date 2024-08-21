@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -18,8 +18,34 @@ export default defineConfig({
           { text: 'Single measure', link: '/use-cases' },
         ],
       },
-      { text: 'Privacy policy', link: '/privacy-policy' }
+      { text: 'Privacy policy', link: '/privacy-policy' },
     ],
+  },
 
-  }
-})
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en',
+    },
+    uk: {
+      label: 'Українська',
+      lang: 'uk',
+      description: 'Створення шаблонів',
+      themeConfig: {
+        nav: [
+          { text: 'Головна', link: '/' },
+          { text: 'Приклади використання', link: '/use-cases' },
+        ],
+        sidebar: [
+          {
+            text: 'Приклади використання',
+            items: [
+              { text: 'Вимірювання', link: '/use-cases' },
+            ],
+          },
+          { text: 'Політика конфіденційності', link: '/privacy-policy' },
+        ],
+      },
+    },
+  },
+});
