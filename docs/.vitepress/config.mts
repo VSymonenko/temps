@@ -33,7 +33,7 @@ export default defineConfig({
       description: 'Створення шаблонів',
       themeConfig: {
         nav: [
-          { text: 'Головна', link: '/' },
+          { text: 'Головна', link: '/uk/' },
           { text: 'Приклади використання', link: '/uk/use-cases' },
         ],
         sidebar: [
