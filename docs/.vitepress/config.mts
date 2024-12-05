@@ -20,6 +20,7 @@ export default defineConfig({
         ],
       },
       { text: 'Privacy policy', link: '/privacy-policy' },
+      { text: 'Need help?', link: '/help' },
     ],
   },
 
@@ -45,6 +46,7 @@ export default defineConfig({
             ],
           },
           { text: 'Політика конфіденційності', link: '/uk/privacy-policy' },
+          { text: 'Потрібна допомога?', link: '/uk/help' },
         ],
       },
     },
