@@ -15,4 +15,8 @@ features:
   - title: Перейти до веб версії
     details: Швидко створюйте та одразу використовуйте шаблони
     link: https://app.temps.pro
+  - title: Завантажити Андроїд застосунок
+    details: Встановити андроїд застосунок на свій смартфон
+    link: /temps.apk
+    target: __blank
 ---

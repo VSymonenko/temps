@@ -9,6 +9,7 @@ Project Description
 
 ### In Progress
 
+- [ ] add instruction how to allow unknwon aps  
 
 ### Done ✓
 
